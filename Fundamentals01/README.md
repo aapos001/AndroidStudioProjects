@@ -1,1 +1,1 @@
-Learning how to make elementary Android apps.
+Android Studio projects that practice skills such as XML design and interactive UIs.
