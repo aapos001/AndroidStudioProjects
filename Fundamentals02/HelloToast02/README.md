@@ -1,3 +1,1 @@
-An app that increments a variable, displays the variable, and toasts.
-
-Practice adding View elements, change UI element attributes, adding a TextEdit, editing the layout, and adding onClick handlers.
+Toast button that launches a new Activity to display the word "Hello!" and the current count.
