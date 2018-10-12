@@ -1,1 +1,1 @@
-Learn how to use Intents to switch between multiple Activities.
+Learn how the Activity lifecycle works and what the onCreate, onStart, onRestart, onResume, onStop, onDestroy, onPause methods do.
