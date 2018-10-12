@@ -1,1 +1,2 @@
-Learn how the Activity lifecycle works and what the onCreate, onStart, onRestart, onResume, onStop, onDestroy, onPause methods do.
+Task 1\nLearn how the Activity lifecycle works and what the onCreate, onStart, onRestart, onResume, onStop, onDestroy, onPause methods do.
+\n\n Implement the onSaveInstanceState method
