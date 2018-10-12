@@ -1,4 +1,4 @@
 Task 1
 Learn how the Activity lifecycle works and what the onCreate, onStart, onRestart, onResume, onStop, onDestroy, onPause methods do.
 Task 2
-Implement the onSaveInstanceState method
+Implement the onSaveInstanceState method.
