@@ -25,16 +25,14 @@ public class SecondActivity extends AppCompatActivity {
         textViewThree = findViewById(R.id.text_three);
         Intent intent = getIntent();
         String textNumber = intent.getStringExtra(MainActivity.TEXT_NUMBER);
-        textViewOne.setVisibility(View.VISIBLE);
-        Log.d(LOG_TAG, textNumber);
-        if(textNumber == "1") {
-//            textViewOne.setVisibility(View.VISIBLE);
+        if(textNumber.equals("1")) {
+            textViewOne.setVisibility(View.VISIBLE);
         }
-        else if(textNumber == "2") {
+        else if(textNumber.equals("2")) {
             textViewTwo.setVisibility(View.VISIBLE);
         }
-        else if(textNumber == "3") {
-//            textViewThree.setVisibility(View.VISIBLE);
+        else if(textNumber.equals("3")) {
+            textViewThree.setVisibility(View.VISIBLE);
         }
 
     }
