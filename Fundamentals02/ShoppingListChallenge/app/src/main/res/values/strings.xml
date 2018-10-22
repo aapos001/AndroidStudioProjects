@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping List Challenge</string>
+    <string name="list1">List1</string>
+    <string name="list2">List2</string>
+    <string name="list3">List3</string>
+    <string name="list4">List4</string>
+    <string name="list5">List5</string>
+    <string name="list6">List6</string>
+    <string name="list7">List7</string>
+    <string name="list8">List8</string>
+    <string name="list9">List9</string>
+    <string name="button_add_item">Add Item</string>
+    <string name="button_label_fruit">Fruit</string>
+    <string name="button_label_milk">Milk</string>
+    <string name="button_label_cereal">Cereal</string>
+    <string name="button_label_eggs">Eggs</string>
+    <string name="button_label_bread">Bread</string>
+    <string name="button_search">Search on Google Maps</string>
+    <string name="edit_store_hint">Store Name</string>
+</resources>
