@@ -1,6 +1,6 @@
 Main Activity
 
-    List grocery items chosen through the add item button.
+    List grocery items chosen through the add item button. Can search for a store using the Google maps app.
     
 Second Activity
 
